@@ -15,7 +15,7 @@
         <jsp.api.version>2.3.1</jsp.api.version>
         <jstl.version>1.2</jstl.version>
         <springsecurity.version>3.2.8.RELEASE</springsecurity.version>
-        <mysql.version>5.0.8</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <spring.data>1.11.5.RELEASE</spring.data>
         <hibernate.version>4.3.6.Final</hibernate.version>
         <maven.compiler.source>1.8</maven.compiler.source>
